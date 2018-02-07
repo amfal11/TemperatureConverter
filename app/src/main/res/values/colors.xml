@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tambah code warna untuk main activity -->
+    <color name="colorPrimary">#512DA8</color>
+    <color name="colorPrimaryDark">#4527A0</color>
+    <color name="colorAccent">#FF5252</color>
+    <color name="cel">#7E57C2</color>
+    <color name="rea">#9575CD</color>
+    <color name="fah">#B39DDB</color>
+    <color name="kel">#D1C4E9</color>
+</resources>

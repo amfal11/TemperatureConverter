@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="splash_text1">Naubyra</string>
+    <string name="splash_text2">App</string>
+    <string name="cel">Celsius</string>
+    <string name="nama">Naufal Ammar</string>
+    <string name="nope">+6283897296099</string>
+    <string name="email">naufala7t@gmail.com</string>
+    <string name="status">Student</string>
+    <string name="git">https://github.com/amfal11</string>
+    <string name="cvt">Convert</string>
+    <string name="rea">Réaumur</string>
+    <string name="fah">Fahrenheit</string>
+    <string name="kel">Kelvin</string>
+    <string name="clogo">C</string>
+    <string name="rlogo">R</string>
+    <string name="flogo">F</string>
+    <string name="klogo">K</string>
+    <string name="about">About</string>
+</resources>
